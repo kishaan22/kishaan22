@@ -72,7 +72,7 @@
 </a>
 </p>
 
-## My Stats: 
+## My Stats 📈: 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishaan22&show_icons=true&locale=en&layout=compact" alt="kishaan22" /></p>
 
