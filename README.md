@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi This is Kishan
 
 ## Data Science and Web Development 💻✨
+
+### "Hello there! 👋 I'm deeply enthusiastic about the realms of Data Science 📊 and Web Development 💻. With a fervent interest in leveraging data to derive insights and crafting seamless web experiences ✨, I'm constantly exploring innovative solutions and expanding my skills in these dynamic fields. 
 
 <!--
 **kishaan22/kishaan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
